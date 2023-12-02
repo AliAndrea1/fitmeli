@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "itemImageSrc": "assets/header11.JPG",
+            "previewImageSrc": "assets/header11.JPG",
+            "thumbnailImageSrc": "assets/header11.JPG",
+            "alt": "Description for Image 1",
+            "title": "Conjunto de Camiseta Social com Calça"
+            
+        },
+        {
+            "itemImageSrc": "assets/imagem2.JPG",
+            "previewImageSrc": "assets/imagem2.JPG",
+            "thumbnailImageSrc": "assets/imagem2.JPG",
+            "alt": "Description for Image 2",
+            "title": "Blusa Feminina com Velcro"
+        },
+        {
+            "itemImageSrc": "assets/imagem3.jpg",
+            "previewImageSrc": "assets/imagem3.jpg",
+            "thumbnailImageSrc": "assets/imagem3.jpg",
+            "alt": "Description for Image 3",
+            "title": "Macaquinho Verde com Cinto"
+        }
+        
+        
+    ]
+}

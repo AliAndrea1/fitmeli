@@ -1,0 +1,77 @@
+/*espaco do menu para logo*/
+.navbar-nav {
+  width:4%;
+  text-align: center;
+}
+/*posição do buscar*/
+.nav-ite{
+  padding: 10px;
+
+}
+/*tamanho do busca*/
+.form-control{
+  height: 30px;
+  background-color: #D9D9D9;
+}
+.btn-lupa{
+  border-style: none;
+  padding: 7px;
+  background-color: #f7f5f5;
+}
+
+.nav-link {
+  position: relative;
+}
+/*o houver do site*/
+.nav-link:after {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background-color: #FFBF00;
+  transition: width 0.3s ease;
+
+}
+.nav-item{
+  color: black;
+}
+
+.nav-link:hover:after,
+.nav-link:focus:after {
+  width: 100%;
+}
+/*a palhaçada começa aqui
+.dropbtn {
+  background-color: #f7f5f5;
+  color: rgb(1, 1, 1);
+  padding: 7.5px;
+  font-size: 16px;
+  border: none;
+}*/
+/* Dropdown Content (Hidden by Default) 
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #640f0f;
+  min-width: 9%;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}*/
+
+/* Links inside the dropdown 
+.dropdown-content a {
+  color: black;
+  padding: 9px 10px;
+  text-decoration: none;
+  display: block;
+}*/
+
+/* Change color of dropdown links on hover 
+.dropdown-content a:hover {background-color: #ddd;}
+*/
+/* Show the dropdown menu on hover 
+.dropdown:hover .dropdown-content {display: block;}
+*/
+
